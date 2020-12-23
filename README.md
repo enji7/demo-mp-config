@@ -2,7 +2,10 @@
 
 Basic tech demo for MicroProfile Config 1.4.
 
-Tested with WildFly 21.
+Usage:
+
+ 1. Build and deploy this WAR on a compliant application server.
+ 1. Run JUnit tests.
 
 ## Config Sources
 
@@ -32,3 +35,4 @@ Resources for the complete MicroProfile spec:
  * <https://projects.eclipse.org/projects/technology.microprofile>
  * <https://github.com/eclipse/microprofile>
  * <https://github.com/eclipse/microprofile/releases>
+ * <https://wiki.eclipse.org/MicroProfile/Implementation>
